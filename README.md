@@ -17,6 +17,16 @@
 
 #
 
+### Meus projetos pessoais
+
+- aNotes
+  - [Link do repositório](https://github.com/ViniMagaa/anotes)
+  - [Aplicação em execução](https://vinimagaa-anotes.vercel.app/)
+ 
+**_Em breve..._**
+
+#
+
 ### Minhas redes sociais
 
 <div> 
