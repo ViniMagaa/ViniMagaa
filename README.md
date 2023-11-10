@@ -22,8 +22,10 @@
 - aNotes
   - [Link do repositório](https://github.com/ViniMagaa/anotes)
   - [Aplicação em execução](https://vinimagaa-anotes.vercel.app/)
- 
-**_Em breve..._**
+
+ - Quizzes
+  - [Link do repositório](https://github.com/ViniMagaa/quizzes)
+  - [Aplicação em execução](https://vinimagaa-quizzes.vercel.app/)
 
 #
 
