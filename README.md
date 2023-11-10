@@ -24,8 +24,8 @@
   - [Aplicação em execução](https://vinimagaa-anotes.vercel.app/)
 
  - Quizzes
-  - [Link do repositório](https://github.com/ViniMagaa/quizzes)
-  - [Aplicação em execução](https://vinimagaa-quizzes.vercel.app/)
+    - [Link do repositório](https://github.com/ViniMagaa/quizzes)
+    - [Aplicação em execução](https://vinimagaa-quizzes.vercel.app/)
 
 #
 
