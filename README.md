@@ -19,11 +19,15 @@
 
 ### Meus projetos pessoais
 
-- aNotes
+- Piatto Divino – Site de receitas Italianas
+  - [Link do repositório](https://github.com/vinimagaa/piatto-divino)
+  - [Aplicação em execução](https://piatto-divino.vercel.app)
+
+- aNotes – Gerencie suas anotações
   - [Link do repositório](https://github.com/ViniMagaa/anotes)
   - [Aplicação em execução](https://vinimagaa-anotes.vercel.app/)
 
- - Quizzes
+ - Quizzes - Resolva quizzes diversos
     - [Link do repositório](https://github.com/ViniMagaa/quizzes)
     - [Aplicação em execução](https://vinimagaa-quizzes.vercel.app/)
 
