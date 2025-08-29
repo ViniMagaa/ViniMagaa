@@ -18,16 +18,20 @@
 
 ## 🖥️ Projetos pessoais
 
-### 🍅 Minimal Pomodoro  
-Timer pomodoro com design minimalista e funcional.  
-🔗 [Repositório](https://github.com/vinimagaa/minimal-pomodoro) • 🌐 [Projeto](https://minimalpomodoro.vercel.app)
+### 🔐 Segurança e Privacidade
+Website educativo sobre segurança e privacidade digital. <br />
+🔗 [Repositório](https://github.com/ViniMagaa/cybersecurity-guide) • 🌐 [Projeto](https://cybersecurityguide.vercel.app)
 
 ### 📚 CyberLevel  
-Plataforma educativa de cibersegurança voltada para o público infanto-juvenil.  
+Plataforma educativa de cibersegurança voltada para o público infanto-juvenil. <br />
 🔗 [Repositório](https://github.com/vinimagaa/cyberlevel) • 🌐 [Projeto](https://cyberlevel.vercel.app)
 
+### 🍅 Minimal Pomodoro  
+Timer pomodoro com design minimalista e funcional. <br />
+🔗 [Repositório](https://github.com/vinimagaa/minimal-pomodoro) • 🌐 [Projeto](https://minimalpomodoro.vercel.app)
+
 ### 🍽️ Piatto Divino  
-Site de receitas italianas com um toque especial de design e sabor.  
+Site de receitas italianas com um toque especial de design e sabor. <br />
 🔗 [Repositório](https://github.com/vinimagaa/piatto-divino) • 🌐 [Projeto](https://piatto-divino.vercel.app)
 
 ### 🗒️ aNotes  
